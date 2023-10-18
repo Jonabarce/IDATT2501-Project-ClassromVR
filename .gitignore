@@ -94,3 +94,4 @@ ProjectSettings/ShaderGraphSettings.asset
 
 # Mono crash dumps
 *.blob
+.bom
